@@ -2,10 +2,12 @@
 Web Browser Project | Python (PyQt5 &amp; PyQtWebEngine)
 
 # How To Install Requirements:
-• Ptython3:
-https://www.python.org/downloads/
-https://devguide.python.org/setup/
-• PyQt5
-pip install PyQt5
-• PyQtWebEngine:
-pip install PyQtWebEngine
+<br /> • Ptython3:
+<br /> https://www.python.org/downloads/
+<br /> https://devguide.python.org/setup/
+<br /> • PyQt5
+<br /> pip install PyQt5
+<br /> • PyQtWebEngine:
+<br /> pip install PyQtWebEngine
+
+
