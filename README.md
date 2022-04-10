@@ -10,4 +10,17 @@ Web Browser Project | Python (PyQt5 &amp; PyQtWebEngine)
 <br /> • PyQtWebEngine:
 <br /> pip install PyQtWebEngine
 
+<br /> If there is a problem during run code!
+<br /> sudo apt-get install --reinstall libxcb-xinerama0
+
+# How to RUN:
+ <br />   python projectEnglishVesion.py
+ <br /> OR
+ <br />   python projectEnglishVesion.py
+  <br />
+  <br />
+  <br />
+  <br />
+ ![Alt text](/Domo.jpg "Optional title")
+
 
